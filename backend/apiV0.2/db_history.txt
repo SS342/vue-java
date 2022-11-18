@@ -1,0 +1,5 @@
+mysql.exe -u root -p
+show databases;
+create database apiv2;
+use apiv2
+show tables;
